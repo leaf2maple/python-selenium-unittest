@@ -1,0 +1,22 @@
+2019-10-15 02:43:48,028 - browserengine - INFO - 打开浏览器
+2019-10-15 02:43:48,358 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:48,588 - BasePage - INFO - click pass
+2019-10-15 02:43:48,588 - login - INFO - 跳过登录
+2019-10-15 02:43:48,608 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:48,908 - BasePage - INFO - click pass
+2019-10-15 02:43:50,928 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:51,028 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 02:43:51,028 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:51,088 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 02:43:51,098 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:51,108 - BasePage - ERROR - click fail:Message: Element <div class="el-select__tags"> is not clickable at point (821,416) because another element <li class="el-time-spinner__item"> obscures it
+
+2019-10-15 02:43:52,168 - BasePage - INFO - 截图成功
+2019-10-15 02:43:52,168 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:52,178 - BasePage - ERROR - click fail:Message: Element <li class="el-select-dropdown__item"> could not be scrolled into view
+
+2019-10-15 02:43:53,268 - BasePage - INFO - 截图成功
+2019-10-15 02:43:53,268 - BasePage - INFO - find element of xpath
+2019-10-15 02:43:53,278 - BasePage - ERROR - click fail:Message: Element <button class="custom-button primary"> is not clickable at point (780,493) because another element <li class="el-time-spinner__item"> obscures it
+
+2019-10-15 02:43:54,389 - BasePage - INFO - 截图成功

@@ -1,0 +1,49 @@
+2019-10-15 15:43:45,073 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:45,293 - BasePage - INFO - click pass
+2019-10-15 15:43:45,313 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:45,593 - BasePage - INFO - click pass
+2019-10-15 15:43:46,653 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:46,743 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 15:43:47,754 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:48,014 - BasePage - INFO - click pass
+2019-10-15 15:43:48,024 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:48,124 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 15:43:49,124 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:49,404 - BasePage - INFO - click pass
+2019-10-15 15:43:49,404 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:49,634 - BasePage - INFO - click pass
+2019-10-15 15:43:49,634 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:49,904 - BasePage - INFO - click pass
+2019-10-15 15:43:50,904 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:51,154 - BasePage - INFO - click pass
+2019-10-15 15:43:51,154 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:51,404 - BasePage - INFO - click pass
+2019-10-15 15:43:53,484 - BasePage - INFO - 截图成功
+2019-10-15 15:43:54,494 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:54,554 - BasePage - INFO - Had type ' 00:01 ' in inputBox
+2019-10-15 15:43:55,555 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:55,575 - BasePage - ERROR - click fail:Message: Element <div class="module-title"> is not clickable at point (914,132) because another element <div class="el-dialog__wrapper"> obscures it
+
+2019-10-15 15:43:56,685 - BasePage - INFO - 截图成功
+2019-10-15 15:43:56,685 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:56,725 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 15:43:57,725 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:57,745 - BasePage - ERROR - click fail:Message: Element <div class="module-title"> is not clickable at point (914,132) because another element <div class="el-dialog__wrapper"> obscures it
+
+2019-10-15 15:43:58,825 - BasePage - INFO - 截图成功
+2019-10-15 15:43:58,825 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:58,835 - BasePage - ERROR - click fail:Message: Element <div class="el-select__tags"> is not clickable at point (821,416) because another element <ul class="el-scrollbar__view el-time-spinner__list"> obscures it
+
+2019-10-15 15:43:59,925 - BasePage - INFO - 截图成功
+2019-10-15 15:43:59,935 - BasePage - INFO - find element of xpath
+2019-10-15 15:43:59,935 - BasePage - ERROR - click fail:Message: Element <li class="el-select-dropdown__item"> could not be scrolled into view
+
+2019-10-15 15:44:01,035 - BasePage - INFO - 截图成功
+2019-10-15 15:44:02,035 - BasePage - INFO - find element of xpath
+2019-10-15 15:44:02,055 - BasePage - ERROR - click fail:Message: Element <div class="module-title"> is not clickable at point (914,132) because another element <div class="el-dialog__wrapper"> obscures it
+
+2019-10-15 15:44:03,175 - BasePage - INFO - 截图成功
+2019-10-15 15:44:03,175 - BasePage - INFO - find element of xpath
+2019-10-15 15:44:03,175 - BasePage - ERROR - click fail:Message: Element <button class="custom-button primary"> is not clickable at point (780,493) because another element <li class="el-time-spinner__item"> obscures it
+
+2019-10-15 15:44:04,275 - BasePage - INFO - 截图成功

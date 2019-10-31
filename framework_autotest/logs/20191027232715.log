@@ -1,0 +1,188 @@
+2019-10-27 23:27:35,436 - browserengine - INFO - 打开浏览器
+2019-10-27 23:27:45,808 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:45,848 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:27:45,848 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:46,078 - BasePage - INFO - click pass
+2019-10-27 23:27:47,078 - login - INFO - 输入密码登录
+2019-10-27 23:27:47,088 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:47,368 - BasePage - INFO - click pass
+2019-10-27 23:27:51,380 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:51,622 - BasePage - INFO - click pass
+2019-10-27 23:27:51,627 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:51,857 - BasePage - INFO - click pass
+2019-10-27 23:27:52,868 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:53,114 - BasePage - INFO - click pass
+2019-10-27 23:27:55,537 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:55,749 - BasePage - INFO - click pass
+2019-10-27 23:27:55,759 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:55,978 - BasePage - INFO - click pass
+2019-10-27 23:27:56,989 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:57,231 - BasePage - INFO - click pass
+2019-10-27 23:27:59,477 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:59,697 - BasePage - INFO - click pass
+2019-10-27 23:27:59,706 - BasePage - INFO - find element of xpath
+2019-10-27 23:27:59,944 - BasePage - INFO - click pass
+2019-10-27 23:28:00,954 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:01,268 - BasePage - INFO - click pass
+2019-10-27 23:28:05,616 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:05,832 - BasePage - INFO - click pass
+2019-10-27 23:28:05,841 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:06,058 - BasePage - INFO - click pass
+2019-10-27 23:28:07,068 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:07,315 - BasePage - INFO - click pass
+2019-10-27 23:28:09,565 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:09,776 - BasePage - INFO - click pass
+2019-10-27 23:28:09,782 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:10,010 - BasePage - INFO - click pass
+2019-10-27 23:28:11,015 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:11,274 - BasePage - INFO - click pass
+2019-10-27 23:28:13,509 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:13,720 - BasePage - INFO - click pass
+2019-10-27 23:28:13,725 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:13,952 - BasePage - INFO - click pass
+2019-10-27 23:28:14,960 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:15,206 - BasePage - INFO - click pass
+2019-10-27 23:28:37,856 - browserengine - INFO - 打开浏览器
+2019-10-27 23:28:48,188 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:48,248 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:28:48,258 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:48,498 - BasePage - INFO - click pass
+2019-10-27 23:28:49,498 - login - INFO - 输入密码登录
+2019-10-27 23:28:49,508 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:49,839 - BasePage - INFO - click pass
+2019-10-27 23:28:49,929 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:49,939 - BasePage - ERROR - click fail:Message: Element <span class="el-switch__core"> is not clickable at point (771,229) because another element <div class="el-loading-mask el-loading-fade-leave-active el-loading-fade-leave-to"> obscures it
+
+2019-10-27 23:28:51,179 - BasePage - INFO - 截图成功
+2019-10-27 23:28:52,189 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:52,319 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:52,559 - BasePage - INFO - click pass
+2019-10-27 23:28:53,559 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:53,679 - BasePage - INFO - Had type ' 00:01 ' in inputBox
+2019-10-27 23:28:54,689 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:54,949 - BasePage - INFO - click pass
+2019-10-27 23:28:54,959 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:55,019 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-27 23:28:56,020 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:56,300 - BasePage - INFO - click pass
+2019-10-27 23:28:56,310 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:56,570 - BasePage - INFO - click pass
+2019-10-27 23:28:56,570 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:56,810 - BasePage - INFO - click pass
+2019-10-27 23:28:57,810 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:58,030 - BasePage - INFO - click pass
+2019-10-27 23:28:58,040 - BasePage - INFO - find element of xpath
+2019-10-27 23:28:58,280 - BasePage - INFO - click pass
+2019-10-27 23:29:00,460 - BasePage - INFO - 截图成功
+2019-10-27 23:29:00,470 - BasePage - INFO - find element of xpath
+2019-10-27 23:29:00,690 - BasePage - INFO - click pass
+2019-10-27 23:29:02,741 - BasePage - INFO - find element of xpath
+2019-10-27 23:29:03,011 - BasePage - INFO - click pass
+2019-10-27 23:29:05,291 - BasePage - INFO - 截图成功
+2019-10-27 23:30:02,213 - browserengine - INFO - 打开浏览器
+2019-10-27 23:30:42,112 - browserengine - INFO - 打开浏览器
+2019-10-27 23:30:52,436 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:52,506 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:30:52,526 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:52,756 - BasePage - INFO - click pass
+2019-10-27 23:30:53,756 - login - INFO - 输入密码登录
+2019-10-27 23:30:53,756 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:54,026 - BasePage - INFO - click pass
+2019-10-27 23:30:55,026 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:55,256 - BasePage - INFO - click pass
+2019-10-27 23:30:55,266 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:55,516 - BasePage - INFO - click pass
+2019-10-27 23:30:55,516 - BasePage - INFO - find element of xpath
+2019-10-27 23:30:55,746 - BasePage - INFO - click pass
+2019-10-27 23:31:07,878 - BasePage - INFO - 截图成功
+2019-10-27 23:31:07,888 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:08,109 - BasePage - INFO - click pass
+2019-10-27 23:31:09,109 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:09,369 - BasePage - INFO - click pass
+2019-10-27 23:31:09,379 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:09,619 - BasePage - INFO - click pass
+2019-10-27 23:31:09,629 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:09,869 - BasePage - INFO - click pass
+2019-10-27 23:31:10,869 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:11,129 - BasePage - INFO - click pass
+2019-10-27 23:31:33,566 - browserengine - INFO - 打开浏览器
+2019-10-27 23:31:43,927 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:43,977 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:31:43,987 - BasePage - INFO - find element of xpath
+2019-10-27 23:31:44,218 - BasePage - INFO - click pass
+2019-10-27 23:31:46,478 - BasePage - INFO - 截图成功
+2019-10-27 23:32:36,861 - browserengine - INFO - 打开浏览器
+2019-10-27 23:32:47,223 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:47,303 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:32:47,313 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:47,543 - BasePage - INFO - click pass
+2019-10-27 23:32:48,543 - login - INFO - 输入密码登录
+2019-10-27 23:32:48,553 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:48,823 - BasePage - INFO - click pass
+2019-10-27 23:32:48,833 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:48,863 - BasePage - INFO - Had type ' 1234567890 ' in inputBox
+2019-10-27 23:32:49,864 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:50,124 - BasePage - INFO - click pass
+2019-10-27 23:32:50,134 - BasePage - INFO - find element of xpath
+2019-10-27 23:32:50,364 - BasePage - INFO - click pass
+2019-10-27 23:33:13,660 - browserengine - INFO - 打开浏览器
+2019-10-27 23:33:24,021 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:24,091 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:33:24,111 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:24,332 - BasePage - INFO - click pass
+2019-10-27 23:33:25,332 - login - INFO - 输入密码登录
+2019-10-27 23:33:25,342 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:25,632 - BasePage - INFO - click pass
+2019-10-27 23:33:28,642 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:28,932 - BasePage - INFO - click pass
+2019-10-27 23:33:29,932 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:30,202 - BasePage - INFO - click pass
+2019-10-27 23:33:31,202 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:31,433 - BasePage - INFO - click pass
+2019-10-27 23:33:42,645 - BasePage - INFO - 截图成功
+2019-10-27 23:33:52,666 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:52,706 - BasePage - INFO - Had type ' 1234567890 ' in inputBox
+2019-10-27 23:33:52,726 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:52,946 - BasePage - INFO - click pass
+2019-10-27 23:33:53,946 - BasePage - INFO - find element of xpath
+2019-10-27 23:33:54,166 - BasePage - INFO - click pass
+2019-10-27 23:34:04,368 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:04,378 - BasePage - INFO - Had type ' 1234567890 ' in inputBox
+2019-10-27 23:34:04,388 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:04,608 - BasePage - INFO - click pass
+2019-10-27 23:34:05,608 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:05,848 - BasePage - INFO - click pass
+2019-10-27 23:34:16,070 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:16,370 - BasePage - INFO - click pass
+2019-10-27 23:34:16,380 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:16,610 - BasePage - INFO - click pass
+2019-10-27 23:34:27,683 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:27,953 - BasePage - INFO - click pass
+2019-10-27 23:34:28,953 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:29,203 - BasePage - INFO - click pass
+2019-10-27 23:34:30,213 - BasePage - INFO - find element of xpath
+2019-10-27 23:34:30,493 - BasePage - INFO - click pass
+2019-10-27 23:34:31,763 - BasePage - INFO - 截图成功
+2019-10-27 23:35:00,288 - BasePage - INFO - 刷新浏览器当前页面
+2019-10-27 23:35:22,766 - browserengine - INFO - 打开浏览器
+2019-10-27 23:35:33,089 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:33,159 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-27 23:35:33,169 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:33,399 - BasePage - INFO - click pass
+2019-10-27 23:35:34,399 - login - INFO - 输入密码登录
+2019-10-27 23:35:34,409 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:34,639 - BasePage - INFO - click pass
+2019-10-27 23:35:39,644 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:39,864 - BasePage - INFO - click pass
+2019-10-27 23:35:42,074 - BasePage - INFO - 截图成功
+2019-10-27 23:35:42,084 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:42,324 - BasePage - INFO - click pass
+2019-10-27 23:35:44,514 - BasePage - INFO - 截图成功
+2019-10-27 23:35:44,514 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:44,745 - BasePage - INFO - click pass
+2019-10-27 23:35:44,755 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:45,015 - BasePage - INFO - click pass
+2019-10-27 23:35:45,035 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:45,285 - BasePage - INFO - click pass
+2019-10-27 23:35:45,285 - BasePage - INFO - find element of xpath
+2019-10-27 23:35:45,515 - BasePage - INFO - click pass

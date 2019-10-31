@@ -1,0 +1,8 @@
+2019-10-14 01:34:27,046 - BasePage - INFO - find element of xpath
+2019-10-14 01:34:27,266 - BasePage - INFO - click pass
+2019-10-14 01:34:27,286 - BasePage - INFO - find element of xpath
+2019-10-14 01:34:27,576 - BasePage - INFO - click pass
+2019-10-14 01:34:27,586 - BasePage - INFO - find element of xpath
+2019-10-14 01:34:27,596 - BasePage - ERROR - click fail:Message: Element <span class="el-switch__core"> is not clickable at point (771,229) because another element <div class="el-loading-mask el-loading-fade-leave-active el-loading-fade-leave-to"> obscures it
+
+2019-10-14 01:34:28,667 - BasePage - INFO - 截图成功

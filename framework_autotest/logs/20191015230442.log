@@ -1,0 +1,16 @@
+2019-10-15 23:05:02,616 - browserengine - INFO - 打开浏览器
+2019-10-15 23:05:02,926 - BasePage - INFO - find element of xpath
+2019-10-15 23:05:03,166 - BasePage - INFO - click pass
+2019-10-15 23:05:03,166 - login - INFO - 跳过登录
+2019-10-15 23:05:03,166 - BasePage - INFO - find element of xpath
+2019-10-15 23:05:03,426 - BasePage - INFO - click pass
+2019-10-15 23:05:03,446 - BasePage - INFO - find element of xpath
+2019-10-15 23:05:03,466 - BasePage - ERROR - click fail:Message: Element <div class="el-input el-input--suffix"> is not clickable at point (819,234) because another element <div class="el-loading-spinner"> obscures it
+
+2019-10-15 23:05:04,586 - BasePage - INFO - 截图成功
+2019-10-15 23:05:04,596 - BasePage - INFO - find element of xpath
+2019-10-15 23:05:04,596 - BasePage - ERROR - click fail:Message: Element <li class="el-select-dropdown__item"> could not be scrolled into view
+
+2019-10-15 23:05:05,686 - BasePage - INFO - 截图成功
+2019-10-15 23:05:05,696 - BasePage - INFO - find element of xpath
+2019-10-15 23:05:05,916 - BasePage - INFO - click pass

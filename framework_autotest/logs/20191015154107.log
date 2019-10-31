@@ -1,0 +1,23 @@
+2019-10-15 15:41:26,888 - browserengine - INFO - 打开浏览器
+2019-10-15 15:41:27,178 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:27,398 - BasePage - INFO - click pass
+2019-10-15 15:41:27,398 - login - INFO - 跳过登录
+2019-10-15 15:41:27,418 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:27,748 - BasePage - INFO - click pass
+2019-10-15 15:41:28,768 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:28,818 - BasePage - INFO - Had type ' 00:01 ' in inputBox
+2019-10-15 15:41:29,819 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:30,049 - BasePage - INFO - click pass
+2019-10-15 15:41:30,059 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:30,129 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 15:41:31,139 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:31,399 - BasePage - INFO - click pass
+2019-10-15 15:41:31,399 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:31,659 - BasePage - INFO - click pass
+2019-10-15 15:41:31,669 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:31,919 - BasePage - INFO - click pass
+2019-10-15 15:41:32,919 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:33,169 - BasePage - INFO - click pass
+2019-10-15 15:41:33,179 - BasePage - INFO - find element of xpath
+2019-10-15 15:41:33,439 - BasePage - INFO - click pass
+2019-10-15 15:41:35,550 - BasePage - INFO - 截图成功

@@ -1,0 +1,10 @@
+2019-10-20 02:02:14,187 - browserengine - INFO - 打开浏览器
+2019-10-20 02:02:24,589 - BasePage - INFO - find element of xpath
+2019-10-20 02:02:24,639 - BasePage - INFO - Had type ' 123456 ' in inputBox
+2019-10-20 02:02:24,649 - BasePage - INFO - find element of xpath
+2019-10-20 02:02:24,879 - BasePage - INFO - click pass
+2019-10-20 02:02:25,879 - login - INFO - 输入密码登录
+2019-10-20 02:02:25,889 - BasePage - INFO - find element of xpath
+2019-10-20 02:02:26,179 - BasePage - INFO - click pass
+2019-10-20 02:02:39,200 - BasePage - INFO - find element of xpath
+2019-10-20 02:02:39,491 - BasePage - INFO - click pass

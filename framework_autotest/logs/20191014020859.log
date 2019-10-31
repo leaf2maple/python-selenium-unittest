@@ -1,0 +1,8 @@
+2019-10-14 02:09:18,969 - browserengine - INFO - 打开浏览器
+2019-10-14 02:09:19,279 - BasePage - INFO - find element of xpath
+2019-10-14 02:09:19,519 - BasePage - INFO - click pass
+2019-10-14 02:09:19,519 - login - INFO - 跳过登录
+2019-10-14 02:09:19,519 - BasePage - INFO - find element of xpath
+2019-10-14 02:09:19,739 - BasePage - INFO - click pass
+2019-10-14 02:10:02,455 - BasePage - INFO - find element of xpath
+2019-10-14 02:10:02,715 - BasePage - INFO - click pass

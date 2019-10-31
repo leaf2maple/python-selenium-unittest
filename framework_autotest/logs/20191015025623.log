@@ -1,0 +1,26 @@
+2019-10-15 02:56:43,961 - browserengine - INFO - 打开浏览器
+2019-10-15 02:56:44,311 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:44,571 - BasePage - INFO - click pass
+2019-10-15 02:56:44,571 - login - INFO - 跳过登录
+2019-10-15 02:56:44,581 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:44,891 - BasePage - INFO - click pass
+2019-10-15 02:56:46,941 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:47,021 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 02:56:48,022 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:48,302 - BasePage - INFO - click pass
+2019-10-15 02:56:48,312 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:48,392 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 02:56:49,392 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:49,662 - BasePage - INFO - click pass
+2019-10-15 02:56:49,672 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:49,692 - BasePage - ERROR - click fail:Message: Element <div class="el-select__tags"> is not clickable at point (821,416) because another element <li class="el-time-spinner__item active"> obscures it
+
+2019-10-15 02:56:50,762 - BasePage - INFO - 截图成功
+2019-10-15 02:56:50,762 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:50,772 - BasePage - ERROR - click fail:Message: Element <li class="el-select-dropdown__item"> could not be scrolled into view
+
+2019-10-15 02:56:51,902 - BasePage - INFO - 截图成功
+2019-10-15 02:56:51,902 - BasePage - INFO - find element of xpath
+2019-10-15 02:56:51,912 - BasePage - ERROR - click fail:Message: Element <button class="custom-button primary"> is not clickable at point (780,493) because another element <li class="el-time-spinner__item"> obscures it
+
+2019-10-15 02:56:53,013 - BasePage - INFO - 截图成功

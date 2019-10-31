@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc8cf1b6-f37c-458e-a939-34fc1789e90b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="framework_autotest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/testsuite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_homepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_fixedtime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1342">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://H:/Anaconda3/Lib/site-packages/BeautifulReport/BeautifulReport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-232">
+              <caret line="152" column="27" lean-forward="true" selection-start-line="152" selection-start-column="27" selection-end-line="152" selection-end-column="27" />
+              <folding>
+                <element signature="e#113#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageobject/wb01_languagepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_language.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>el-input__inner</find>
+      <find>path</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/framework/logger.py" />
+        <option value="$PROJECT_DIR$/pageobject/baidu_home.py" />
+        <option value="$PROJECT_DIR$/pageobject/baidu_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuits/baidu_search.py" />
+        <option value="$PROJECT_DIR$/testsuits/news_sport_click.py" />
+        <option value="$PROJECT_DIR$/testsuits/testsuite.py" />
+        <option value="$PROJECT_DIR$/testsuites/baidu_search.py" />
+        <option value="$PROJECT_DIR$/pageobject/news_sports_homepage.py" />
+        <option value="$PROJECT_DIR$/pageobject/news_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuites/news_sport_click.py" />
+        <option value="$PROJECT_DIR$/testsuites/wb01homepage_clicktag.py" />
+        <option value="$PROJECT_DIR$/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_homepage_cilck_tag.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_homepage.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_wirenetworkpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_desktopsettingpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_timepage.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_passwordsettingpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_passwordsettingpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_desktopbackgroundpage.py" />
+        <option value="$PROJECT_DIR$/framework/test.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_fixedtimepage.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_languagepage.py" />
+        <option value="$PROJECT_DIR$/framework/base_page.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_loginpage.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_login.py" />
+        <option value="$PROJECT_DIR$/framework/login.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_wirenetwork.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_passwordsetting.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_homepage.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_desktopbackground.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_wirelessnetwork.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_language.py" />
+        <option value="$PROJECT_DIR$/pageobject/wb01_wirelessnetwork.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_fixedtime.py" />
+        <option value="$PROJECT_DIR$/testsuites/testsuite.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="framework_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework_autotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_report" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-10-27-23_27_14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="framework_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="framework_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="H:/Anaconda3/Scripts" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\python_data\framework_autotest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testsuite">
+    <configuration name="testsuite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="framework_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuites/testsuite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_login.TestLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="framework_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_login.TestLogin.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="framework_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_015_set_ssid_2_4g_wifi" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="framework_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wirelessnetwork.TestWirelessNetWork.test_015_set_ssid_2_4g_wifi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="framework_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testsuite" />
+        <item itemvalue="Python tests.Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" />
+        <item itemvalue="Python tests.Unittests for test_wirelessnetwork.TestWirelessNetWork.test_015_set_ssid_2_4g_wifi" />
+        <item itemvalue="Python tests.Unittests for test_login.TestLogin.test_login" />
+        <item itemvalue="Python tests.Unittests for test_login.TestLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc8cf1b6-f37c-458e-a939-34fc1789e90b" name="Default Changelist" comment="" />
+      <created>1566408330770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566408330770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_language_py - 2019.10.15 at 23h 46m 41s.xml">
+      <configuration name="Unittests in test_language.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin - 2019.10.19 at 02h 51m 32s.xml">
+      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin_test_login_success - 2019.10.19 at 02h 53m 22s.xml">
+      <configuration name="Unittests for test_login.TestLogin.test_login_success" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin - 2019.10.19 at 02h 54m 25s.xml">
+      <configuration name="Unittests for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_login_TestLogin_test_login - 2019.10.19 at 03h 05m 43s.xml">
+      <configuration name="Unittests for test_login.TestLogin.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_wirelessnetwork_TestWirelessNetWork_test_015_set_ssid_2_4g_wifi - 2019.10.20 at 01h 44m 11s.xml">
+      <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_015_set_ssid_2_4g_wifi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_wirelessnetwork_TestWirelessNetWork_test_017_set_route_2_4g_wifi - 2019.10.20 at 01h 45m 32s.xml">
+      <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_wirelessnetwork_TestWirelessNetWork_test_017_set_route_2_4g_wifi - 2019.10.20 at 02h 00m 59s.xml">
+      <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_wirelessnetwork_TestWirelessNetWork_test_017_set_route_2_4g_wifi - 2019.10.20 at 02h 02m 52s.xml">
+      <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_wirelessnetwork_TestWirelessNetWork_test_017_set_route_2_4g_wifi - 2019.10.20 at 02h 08m 48s.xml">
+      <configuration name="Unittests for test_wirelessnetwork.TestWirelessNetWork.test_017_set_route_2_4g_wifi" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884793" visible="true" weight="0.19597457" />
+      <window_info id="Structure" order="1" sideWeight="0.5011521" side_tool="true" weight="0.1684322" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32997882" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44470045" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32949308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49884793" visible="true" weight="0.19597457" />
+      <window_info id="Structure" order="1" sideWeight="0.5011521" side_tool="true" weight="0.1684322" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32997882" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44470045" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32949308" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_report/2019-09-02-01_22_00.html/TestResults_testsuites.baidu_search.BaiduSearch_2019-09-02_01-22-00.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/2019-09-02-01_22_00.html/TestResults_testsuites.news_sport_click.SportNewsClick_2019-09-02_01-22-00.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/news_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/baidu_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/20190907163131.png" />
+    <entry file="file://$PROJECT_DIR$/logs/20190907163109.log" />
+    <entry file="file://$PROJECT_DIR$/logs/20190907182813.log" />
+    <entry file="file://$PROJECT_DIR$/screenshots/20190907170328.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/20190908004755.png" />
+    <entry file="file://$PROJECT_DIR$/testsuites/baidu_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_wirenetworkpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/20190923022232.log" />
+    <entry file="file://$PROJECT_DIR$/screenshots/20190925015822.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/20190926001856.png" />
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_passwordsettingpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_timepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_desktopsettingpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Anaconda3/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="231" column="28" lean-forward="true" selection-start-line="231" selection-start-column="28" selection-end-line="231" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_contrast/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/20191014013427.png" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/Anaconda3/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_desktopbackgroundpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/20191015151034.png" />
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_fixedtimepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/20191019025117.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/20191019025116.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_wirenetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="82" column="25" selection-start-line="80" selection-start-column="12" selection-end-line="82" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_desktopbackground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/2019-10-19-23_18_07.html/TestResults_testsuites.test_fixedtime.TestFixedTime_2019-10-19_23-18-07.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/2019-10-19-23_18_07.html/TestResults_testsuites.test_wirelessnetwork.TestWirelessNetWork_2019-10-19_23-18-07.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/2019-10-19-23_18_07.html/TestResults_testsuites.test_desktopbackground.TestDesktopBackground_2019-10-19_23-18-07.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_passwordsetting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_languagepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/wb01_wirelessnetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="89" column="35" lean-forward="true" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_wirelessnetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="94" column="43" lean-forward="true" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test11.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://H:/Anaconda3/Lib/site-packages/BeautifulReport/BeautifulReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="152" column="27" lean-forward="true" selection-start-line="152" selection-start-column="27" selection-end-line="152" selection-end-column="27" />
+          <folding>
+            <element signature="e#113#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_report/2019-10-20-02_48_27.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/testsuite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_fixedtime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+2019-10-15 23:04:24,925 - browserengine - INFO - 打开浏览器
+2019-10-15 23:04:25,255 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:25,496 - BasePage - INFO - click pass
+2019-10-15 23:04:25,496 - login - INFO - 跳过登录
+2019-10-15 23:04:25,496 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:25,776 - BasePage - INFO - click pass
+2019-10-15 23:04:25,806 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:25,816 - BasePage - ERROR - click fail:Message: Element <span class="el-switch__core"> is not clickable at point (771,229) because another element <div class="el-loading-mask el-loading-fade-leave-active el-loading-fade-leave-to"> obscures it
+
+2019-10-15 23:04:26,966 - BasePage - INFO - 截图成功
+2019-10-15 23:04:27,976 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:28,296 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:28,536 - BasePage - INFO - click pass
+2019-10-15 23:04:29,537 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:29,627 - BasePage - INFO - Had type ' 00:01 ' in inputBox
+2019-10-15 23:04:30,627 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:30,897 - BasePage - INFO - click pass
+2019-10-15 23:04:30,897 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:30,967 - BasePage - INFO - Had type ' 00:00 ' in inputBox
+2019-10-15 23:04:31,977 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:32,237 - BasePage - INFO - click pass
+2019-10-15 23:04:32,237 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:32,487 - BasePage - INFO - click pass
+2019-10-15 23:04:32,497 - BasePage - INFO - find element of xpath
+2019-10-15 23:04:32,757 - BasePage - INFO - click pass
